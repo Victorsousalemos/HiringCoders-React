@@ -1,5 +1,5 @@
 # HiringCoders-React
- Aprendemos a fazer o projeto de um formulário em que você escreve o nome do repositório do GitHub de uma pessoa e aparece todos os repositórios que a pessoa subiu para o GitHub.
+ Aprendemos a fazer o projeto de um formulário em que você escreve o nome do repositório do GitHub de uma pessoa e aparece todos os repositórios da pessoa.
 
 - Por que React?
 - Preparando o ambiente
